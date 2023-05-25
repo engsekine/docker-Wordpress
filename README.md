@@ -10,3 +10,8 @@ git clone git@github.com:engsekine/docker-wordpress.git
 
 2. docker-compose起動
 docker-compose up -d
+
+3. docker-compose
+docker-compose up
+
+4. localhost:8000
